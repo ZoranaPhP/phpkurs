@@ -1,5 +1,5 @@
 <?php
 
-echo 'Ovo je tek kraj pocetka';
+echo 'Ovo je tek kraj pocetka <3';
 
 ?>
